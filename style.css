@@ -5,11 +5,17 @@ body {
 }
 
 .cabecalho {
-    color: rgb(4, 194, 77);
-    background-color: black;
+    color: #3aef46;
+    background: linear-gradient(to right, #013d05, rgb(0, 21, 9), #013d05);
     text-align: center;
     padding: 40px 20px;
 }
+
+.imgf {
+    width: 100px;
+}
+
+
 
 .cabecalho h1 {
     font-size: 50px;
@@ -42,7 +48,7 @@ body {
 }
 
 .navbar-nav .nav-item.active .nav-link {
-    color: rgb(206, 206, 8) !important;
+    color: #cece08 !important;
     font-weight: 600;
 }
 
